@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Parent Toolkit](https://img.shields.io/badge/Toolkit-FutureProof-9945FF?style=for-the-badge&logo=solana)](https://github.com/Gitdigital-products/FutureProof-Mobile-Mobile-toolkit-)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Gitdigital-products/SmartTransport-Mobile-Mobile/ci.yml?style=for-the-badge&logo=github&color=orange)](https://github.com/Gitdigital-products/SmartTransport-Mobile-Mobile/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
+
 <!-- Security Badges -->
 ![Security Foundational](https://img.shields.io/badge/security-foundational-blue)
 ![Security Scanning](https://img.shields.io/badge/security-scanning-active-green)
